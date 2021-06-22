@@ -1,0 +1,8 @@
+# bottom section bg
+@rect,,0,465,250,60,10,left,top,#dcddde 0,#36393F 99
+@rect,,0,465,250,25,0,left,top,#dcddde 0,#36393F 99
+
+# Search box
+@rect,,15,480,220,25,5,left,bottom,#666666 0,#202225 99,content
+@search,,17,482,210,25,0,left,bottom,#72767D 99,#ffffff 99, Search
+

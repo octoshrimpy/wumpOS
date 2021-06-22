@@ -1,0 +1,29 @@
+tint2_look          = 1
+monitor				= 0
+
+menu_margin_y       = 10
+menu_margin_x       = 80
+menu_width          = 250
+menu_padding_top    = 10
+menu_padding_right  = 10
+menu_padding_bottom = 70
+menu_padding_left   = 10
+menu_valign         = bottom
+menu_radius			= 10
+
+sub_spacing 		= 10 
+
+item_radius         = 2
+item_border         = 1
+item_height			= 40
+
+font		    	= Nimbus Sans 10
+
+color_menu_bg       = #292B2F 100
+color_menu_border   = #1E2124 0
+color_menu_border   = #1E2124 0
+color_norm_fg       = #8e9297 100
+
+color_sel_bg        = #393C42 100
+color_sel_fg        = #dcddde 100
+color_sel_border    = #888888 0
