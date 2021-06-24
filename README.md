@@ -4,6 +4,10 @@
 dotfiles and general theming for anything (old) discord-esque on linux
 
 ![2021-06-22_16-21_latest](https://user-images.githubusercontent.com/7097172/123312597-cd2fe700-d4e5-11eb-830e-b2665b188836.png)
+Blue
+
+![2021-06-22_16-21_latest_blurple](https://user-images.githubusercontent.com/7097172/123314849-4defe280-d4e8-11eb-9f80-eb9e77b3c890.png)
+Blurple
 
 ---
 
