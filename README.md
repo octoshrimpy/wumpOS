@@ -19,9 +19,9 @@ launcher: [jgmenu](https://jgmenu.github.io)
 
 ### todo
 
-- [ ] terminal color scheme
 - [ ] light mode variants
 - [ ] smoother hide mechanic for tint2 
 - [ ] horizontal bar option (poly?lemon?)
 - [ ] add stuff to todo list
+- [X] terminal color scheme
 - [X] [spotify theme](https://github.com/morpheusthewhite/spicetify-themes/tree/master/Discord) with [spicetify-cli](https://github.com/khanhas/spicetify-cli) 
